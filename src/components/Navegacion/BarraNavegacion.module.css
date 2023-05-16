@@ -1,0 +1,9 @@
+.navegacion {
+    width: 100%; /* Todo el ancho de la ventana */
+    height: 80px;
+    
+    position: fixed; /* El elemento estara fijo en la parte superior de la ventana */
+    top: 0;
+    margin-bottom: 50px;
+    background-color:#ffca9e ;
+}

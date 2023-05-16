@@ -1,0 +1,29 @@
+.contenedor {
+    display: inline-block;
+    margin-top: 40px;
+    margin: 20px;
+    width: 100%;
+}
+
+.contenedorDetalle {
+    margin: 20px;
+    display: block;
+}
+
+.logoEmpresa {
+    float: left;
+    margin-right: 14px;
+}
+
+.icono {
+    height: 100px;
+    width: 100px;
+}
+
+.logoEmpresa img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    object-fit: contain;
+    
+}

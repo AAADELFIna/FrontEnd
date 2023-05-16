@@ -1,0 +1,15 @@
+.contenedor {
+    display: inline-block;
+    width: 250px;
+}
+
+.habilidad {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.nombre {
+    width: 250px;
+    text-align: center;
+}

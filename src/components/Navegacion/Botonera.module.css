@@ -1,0 +1,12 @@
+.botonLogin{
+    border-radius: 5px;
+    width: 80px;
+    height: 40px;
+    float: right;
+    margin: 5px;
+    margin-top: 18px;
+}
+
+.modal {
+    background-color: bisque;
+}

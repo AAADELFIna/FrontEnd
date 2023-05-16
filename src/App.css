@@ -1,0 +1,21 @@
+body {
+  background-color: #ffc98f;
+}
+
+h4 {
+  margin: 0px;
+  line-height: 5px;
+}
+
+h3 {
+  margin: 0px;
+  
+}
+
+.display-linebreak {
+  white-space: pre-line;
+}
+
+.App h2 {
+  margin-left: 25px;
+}

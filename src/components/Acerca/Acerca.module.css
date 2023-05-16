@@ -1,0 +1,42 @@
+.contenedor {
+    display: inline-block;
+    margin: 10px;
+}
+
+.fotoPerfil {
+    margin: 10px;
+    margin-right: 60px;
+    float: left;
+    flex-direction: row;
+}
+
+.fotoPerfil img {
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+    margin-left: 50px;
+    display: block;
+}
+
+.nombrePerfil {
+    margin-top: 10px;
+    font-weight: bold;
+    display: block;
+    margin-left: 80px;
+}
+
+.puesto {
+    display: block;
+    margin-left: 70px;
+}
+
+.infoBasica {
+    width: 80%;
+    margin: 20px;
+    text-align: center;
+    display: block;
+    padding: 20px 0;
+}
